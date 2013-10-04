@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2C_sharp", "Assignment2C_sharp\Assignment2C_sharp\Assignment2C_sharp.csproj", "{3699C879-78DE-4FA9-9A99-23BEAA49F9B4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Assignment2C_sharpContent", "Assignment2C_sharp\Assignment2C_sharpContent\Assignment2C_sharpContent.contentproj", "{7815A525-5C64-4EC0-8B96-EA51BE8A3AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3699C879-78DE-4FA9-9A99-23BEAA49F9B4}.Debug|x86.ActiveCfg = Debug|x86
+		{3699C879-78DE-4FA9-9A99-23BEAA49F9B4}.Debug|x86.Build.0 = Debug|x86
+		{3699C879-78DE-4FA9-9A99-23BEAA49F9B4}.Release|x86.ActiveCfg = Release|x86
+		{3699C879-78DE-4FA9-9A99-23BEAA49F9B4}.Release|x86.Build.0 = Release|x86
+		{7815A525-5C64-4EC0-8B96-EA51BE8A3AA5}.Debug|x86.ActiveCfg = Debug|x86
+		{7815A525-5C64-4EC0-8B96-EA51BE8A3AA5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
